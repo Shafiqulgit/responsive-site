@@ -1,0 +1,10 @@
+.service-style{
+    border: 3px solid purple;
+    border-radius: 15px;
+    background-color: rgb(210, 232, 233);
+}
+
+.imge{
+    width: 100%;
+    border-radius: 10px;
+}
